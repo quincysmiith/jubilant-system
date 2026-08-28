@@ -1,1 +1,0 @@
-{"queries":[{"id":"portfolio_performance","compiledQueryString":"select * from portfolio.comparison","inputQueryString":"select * from portfolio.comparison","compiled":false,"inline":true}]}
